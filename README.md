@@ -1,5 +1,3 @@
----
-
 # 🚦 **TrafficSyncMaster** 🚦
 
 **TrafficSyncMaster** is an Arduino-based traffic signal control system with **master-slave architecture**. The master Arduino controls 3 slave Arduinos (representing traffic lights), simulating a synchronized street traffic flow. It also features a **pedestrian crossing button** for added safety.
