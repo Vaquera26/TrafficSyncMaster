@@ -55,3 +55,13 @@
 ![Photo-2](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FSemaforo-2.jpeg?alt=media&token=7bb7fd38-8d89-4d96-b832-4a79e1ebab2d)
 
 
+### 👋 Hi, I'm **Juan Fernando Vaquera Sánchez**  
+
+📫 **Email:** [juan.tec@outlook.com](mailto:juan.tec@outlook.com)  
+🌐 **Website:** [codexvaquera.studio](https://www.codexvaquera.studio/)  
+💼 **LinkedIn:** [linkedin.com/in/juan-vaquera-ln](https://www.linkedin.com/in/juan-vaquera-ln/)  
+🐙 **GitHub:** [github.com/Vaquera26](https://github.com/Vaquera26)  
+
+
+![Juan Fernando Vaquera Sánchez](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FJuan%20Fernando%20Vaquera%20Sanchez.PNG?alt=media&token=52c1b861-82a6-4ccc-bc17-0fc40d07954c)
+
