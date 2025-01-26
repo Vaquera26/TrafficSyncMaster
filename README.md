@@ -1,4 +1,4 @@
-# 🚦 **TrafficSyncMaster** 🚦
+![image](https://github.com/user-attachments/assets/128b05fa-89dc-4e9c-9a68-c5b8deb87a77)# 🚦 **TrafficSyncMaster** 🚦
 
 **TrafficSyncMaster** is an Arduino-based traffic signal control system with **master-slave architecture**. The master Arduino controls 3 slave Arduinos (representing traffic lights), simulating a synchronized street traffic flow. It also features a **pedestrian crossing button** for added safety.
 
@@ -50,9 +50,9 @@
 
 ## Photos
 
-![Photo-1](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FSemafor-1.jpeg?alt=media&token=9dd98b35-4d1c-4051-82d3-0c248f7d760e)
+![Photo-1](https://github.com/Vaquera26/TrafficSyncMaster/blob/main/Photos/Semafor-1.jpeg?raw=true)
 
-![Photo-2](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FSemaforo-2.jpeg?alt=media&token=7bb7fd38-8d89-4d96-b832-4a79e1ebab2d)
+![Photo-2](https://github.com/Vaquera26/TrafficSyncMaster/blob/main/Photos/Semaforo-2.jpeg?raw=true)
 
 ## About
 <div align="center">
