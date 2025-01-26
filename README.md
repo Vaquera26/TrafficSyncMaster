@@ -56,7 +56,7 @@
 
 ## About
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FJuan%20Fernando%20Vaquera.PNG?alt=media&token=35ba9787-1dd1-41ac-a253-d7eacb022247" width="150" style="border-radius:50%;">
+  <img src="https://github.com/Vaquera26/Portfolio-Juan-Vaquera-Website/blob/master/Photos/Juan%20Fernando%20Vaquera.PNG?raw=true" width="150" style="border-radius:50%;">
 
   ### 👋 Hi, I'm **Juan Fernando Vaquera Sánchez**  
 
